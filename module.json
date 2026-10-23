@@ -1,0 +1,13 @@
+{
+  "id": "automatic-media-converter",
+  "title": "Automatic Media Converter",
+  "description": "Converte imagens para WebP e áudio para Ogg antes do upload.",
+  "version": "0.1.0",
+  "compatibility": {"minimum": "13", "maximum": "14"},
+  "authors": [{"name": "Automatic Media Converter contributors"}],
+  "esmodules": ["scripts/main.js"],
+  "languages": [
+    {"lang": "pt-BR", "name": "Português (Brasil)", "path": "lang/pt-BR.json"},
+    {"lang": "en", "name": "English", "path": "lang/en.json"}
+  ]
+}
